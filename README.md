@@ -19,6 +19,8 @@
 ## Current Projects
 
 - 🤖 **[VComp](https://github.com/r-bart/vcomp)** - Virtual corporation platform — multi-agent system on Claude Agent SDK
+- 🏎️ **[Braking Lab](https://brakinglab.com)** - Sim racing companion — brake training, race prep, and iRacing integration
+- 🏋️ **[Verxion](https://verxion.app)** - Workout tracking app — plan, log, and monitor progress without distractions
 
 ## Background
 
