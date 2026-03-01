@@ -14,7 +14,7 @@
 ## What I'm Working On
 
 - 🏢 **Product Engineer at [Tutellus](https://tutellus.com)** — also teaching tokenization, DeFi, and Web3
-- 🌙 **Building digital products** — searching for the one that scales
+- 🌙 **Building digital products** — trying to solve interesting problems with software
 
 ## Current Projects
 
