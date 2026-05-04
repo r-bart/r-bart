@@ -21,6 +21,7 @@
 - 🛠️ **[Devtronic](https://github.com/r-bart/devtronic)** - Exponential development workflow — skills, agents, and architecture rules for Claude Code
 - 🏎️ **[Braking Lab](https://brakinglab.com)** - Sim racing companion — brake training, race prep, and iRacing integration
 - 🏋️ **[Verxion](https://verxion.app)** - Workout tracking app — plan, log, and monitor progress without distractions
+- ✍️ **[Scribetronic](https://github.com/r-bart/scribetronic)** - Editorial calendar + writing pipeline for Claude Code — skills, plugin marketplace, and CLI for one-newsletter-a-week-plus-derivatives publishing
 
 ## Background
 
