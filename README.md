@@ -29,7 +29,7 @@
 - 📈 Helped grow [anfix](https://anfix.com), Spain's biggest cloud ERP for SMEs
 - 🏧 Connected BTC to 10,000+ traditional ATMs at Bit2Me
 - 🏦 Led blockchain practice at UST Global — GE, Santander, Tesla, Deloitte, and other Fortune 500s
-- 📖 Co-authored *[Blockchain: La revolucion industrial de internet](https://www.amazon.es/Blockchain-revoluci%C3%B3n-industrial-internet/dp/8498753325)* (8 editions)
+- 📖 Co-authored *[Blockchain: La revolucion industrial de internet](https://www.amazon.es/Blockchain-revoluci%C3%B3n-industrial-internet-colecci%C3%B3n/dp/849875447X)* (8 editions)
 - 🎓 Taught blockchain to leaders at PwC, Iberdrola, BBVA, Santander, and Deloitte since 2015
 - 🎥 Created the first blockchain online course in Spanish in 2015 with "Blockchain Toolkit"
 
